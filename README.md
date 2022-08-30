@@ -55,9 +55,9 @@ As for me, it is very valuable that you have added a lot of good additional mate
 ---
 
 ## **2.** VCS (hello gitty), GitHub and Collaboration
-In this module I was very impressed with the ability to move around the branch using the combined instructions for HEAD, like HEAD~^2~2. Also it was interesting to work with fakeTeamwork operations.  
+I was very impressed with the ability to move around the branch using the combined instructions for HEAD, like HEAD~^2~2. Also it was interesting to work with fakeTeamwork operations.  
 I am not sure yet that I will cope with the solution of complicated conflicts. I hope to better understand this issue in practice.  
-So far, I use Git for this course through Git Bash and make commits for all the changes. I've done all folders for screenshots not in GUI, but through Git Bash. Very satisfied with myself :laughing:
+I use Git for this course through Git Bash and make commits for all the changes so far. I've done all folders for screenshots not in GUI, but through Git Bash. Very satisfied with myself :laughing:
 <details><summary>Screenshots</summary>
 <p>
 
