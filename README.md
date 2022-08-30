@@ -22,7 +22,7 @@
 
 ## **0.** Git Basics
 Well, this module took more time for learning than I expected. It's absolutely new subject for me. Therefore I passed the whole course on Coursera with enthusiasm.
-I did a big cheat-sheet with all commands I've learnt in this course.
+I did a big cheat-sheet with all commands I've learnt in this course.  
 "Learn Git Branching" gave me better awareness about Git and GitHub workflows.
 But even after these two courses I have many questions left: how I can use all these commands in real life?
 Additional materials for this module helped me to understand subject better. In particular "Communicating using Markdown" was very useful for me.
@@ -41,11 +41,23 @@ Additional materials for this module helped me to understand subject better. In 
 ---
 
 ## **1.** Linux CLI and Networking
-<details><summary>Screenshots</summary></details>
+Despite the fact that I used Linux (Ubuntu) before, I did not know 2/3 commands from this course. Most of all I liked the information, how to change permissions for files and folders for different categories of users. Long ago I wanted to understand it.  
+I was also very interested in the possibilities of commands with concatenation and pipe. I do not know yet how I will use this in the frontend but it is really interesting.  
+As for me, it is very valuable that you have added a lot of good additional materials in this course. I found many answers to my questions there. I put off some of them for later, because I am afraid that I never will go so far to study the coding :laughing:
+
+<details><summary>Screenshots</summary>
+<p>
+
+![Screenshots of answers](https://github.com/irynaDemydenko/kottans-frontend/blob/33fef7193fc436f5ba4105a76212f20ea1ec89fe/task_linux_cli/Linux-quize.jpg)
+</p>
+</details>
 
 ---
 
 ## **2.** VCS (hello gitty), GitHub and Collaboration
+In this module I was very impressed with the ability to move around the branch using the combined instructions for HEAD, like HEAD~^2~2. Also it was interesting to work with fakeTeamwork operations.  
+I am not sure yet that I will cope with the solution of complicated conflicts. I hope to better understand this issue in practice.  
+So far, I use Git for this course through Git Bash and make commits for all the changes. I've done all folders for screenshots not in GUI, but through Git Bash. Very satisfied with myself :laughing:
 <details><summary>Screenshots</summary>
 <p>
 
