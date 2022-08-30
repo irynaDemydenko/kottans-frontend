@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Git and GitHub</title>
+    <style type="text/css">
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+            
+        }
+
+        table {
+            table-layout: auto;
+            width: 100%;
+            border-collapse: collapse;
+            border: 3px solid purple;
+            }
+
+            th, td {
+            padding: 20px;
+            border: 1px solid purple;
+            }
+
+            caption {
+                font-size: 25px;
+                text-align: left;
+                color: blueviolet;
+            }
+
+            .subline {
+                font-weight: bold;
+                color: blueviolet;
+
+            }
+            h1 {
+                color:brown;
+                text-align: center;
+            }
+    </style>
+    
+</head>
+<body>
+    <header>
+        <h1>Introduction to Git and GitHub</h1>
+    </header>
+    <main>
+
+        <h2>Cheat Sheet for Git</h2>
+        <table>
+            <caption>Table of commands for Git.</caption>    
+            <thead>
+                <tr>
+                    <th>Command</th>
+                    <th>Explanation</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>git config --list</td>
+                    <td>Checking your configuration settings</td>
+                </tr>
+                <tr>
+                    <td>git config --list --show-origin</td>
+                    <td>You can view all of your settings and where they are coming from.</td>
+                </tr>
+                <tr>
+                    <td>git config --global</td>
+                    <td><pre>Your Identity (only once):<br>
+                            git config --global user.name "John Doe"<br>
+                            git config --global user.email johndoe@example.com</pre>
+                    </td>
+                </tr>
+                <tr>
+                    <td>git help (verb)</td>
+                    <td rowspan="2">Getting Help. For example, you can get the manpage help for the git config command by running this: git help config</td>
+                </tr>
+                <tr>
+                    <td>git (verb) --help</td>
+                </tr>
+                
+                <tr>
+                    <td>cd D:/Docs/my_project</td>
+                    <td rowspan="2">Initializing a Repository in an Existing Directory</td>
+                </tr>
+                <tr>
+                    <td>git init</td>
+                </tr>
+                <tr>
+                    <td class="subline" colspan="2">Advanced Git Cheat Sheet</th>
+                </tr>
+                <tr>
+                    <td>git commit -a</td>
+                    <td>Stages files automatically</td>
+                </tr>
+                <tr>
+                    <td>git log -p</td>
+                    <td>Produces patch text</td>
+                </tr>
+                <tr>
+                    <td>git show</td>
+                    <td>Shows various objects</td>
+                </tr>
+                <tr>
+                    <td>git diff</td>
+                    <td>Is similar to the Linux `diff` command, and can show the differences in various commits</td>
+                </tr>
+                <tr>
+                    <td>git diff --staged</td>
+                    <td>An alias to --cached, this will show all staged files compared to the named commit</td>
+                </tr>
+                <tr>
+                    <td>git add -p</td>
+                    <td>Allows a user to interactively review patches to add to the current commit</td>
+                </tr>
+                <tr>
+                    <td>git mv</td>
+                    <td>Similar to the Linux `mv` command, this moves a file</td>
+                </tr>
+                <tr>
+                    <td>git rm</td>
+                    <td>Similar to the Linux `rm` command, this deletes, or removes a file</td>
+                </tr>
+                <tr>
+                    <td class="subline" colspan="2">Git Revert Cheat Sheet</th>
+                </tr>
+                <tr>
+                    <td>git checkout</td>
+                    <td>is effectively used to switch branches</td>
+                </tr>
+                <tr>
+                    <td>git reset</td>
+                    <td>basically resets the repo, throwing away some changes. It’s somewhat difficult to understand, so reading the examples in the documentation may be a bit more useful</td>
+                </tr>
+                <tr>
+                    <td>git commit --amend</td>
+                    <td>is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit</td>
+                </tr>
+                <tr>
+                    <td>git revert</td>
+                    <td>makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command</td>
+                </tr>
+                <tr>
+                    <td class="subline" colspan="2">Git branches Cheat-Sheet</th>
+                </tr>
+                <tr>
+                    <td>git branch</td>
+                    <td>Used to manage branches</td>
+                </tr>
+                
+                <tr>
+                    <td>git config --global init.defaultBranch main</td>
+                    <td>To set "main" as the default branch name</td>
+                </tr>
+                <tr>
+                    <td>git branch (name) </td>
+                    <td>Creates the branch</td>
+                </tr>
+                <tr>
+                    <td>git branch -d (name)</td>
+                    <td>Deletes the branch</td>
+                </tr>
+                <tr>
+                    <td>git branch -D (name)</td>
+                    <td>Forcibly deletes the branch</td>
+                </tr>
+                <tr>
+                    <td>git checkout (branch) </td>
+                    <td>Switches to a branch.</td>
+                </tr>
+                <tr>
+                    <td>git checkout -b (branch)</td>
+                    <td>Creates a new branch and switches to it.</td>
+                </tr>
+                <tr>
+                    <td>git merge (branch) </td>
+                    <td>Merge joins branches together. </td>
+                </tr>
+                <tr>
+                    <td>git merge --abort</td>
+                    <td>If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action.</td>
+                </tr>
+                <tr>
+                    <td>git log --graph --online</td>
+                    <td>This shows a summarized view of the commit history for a repo.</td>
+                </tr>
+                <tr>
+                    <td class="subline" colspan="2"><b>Git Remotes Cheat-Sheet</b></th>
+                    
+                </tr>
+                <tr>
+                    <td>git clone URL</td>
+                    <td>Git clone is used to clone a remote repository into a local workspace</td>
+                </tr>
+                <tr>
+                    <td>git push</td>
+                    <td>Git push is used to push commits from your local repo to a remote repo</td>
+                </tr>
+                <tr>
+                    <td>git pull</td>
+                    <td>Git pull is used to fetch the newest updates from a remote repository</td>
+                </tr>
+                <tr>
+                    <td>git remote</td>
+                    <td>Lists remote repos</td>
+                </tr>
+                <tr>
+                    <td>git remote -v</td>
+                    <td>List remote repos verbosely</td>
+                </tr>
+                <tr>
+                    <td>git remote show (name)</td>
+                    <td>Describes a single remote repo</td>
+                </tr>
+                <tr>
+                    <td>git remote update</td>
+                    <td>Fetches the most up-to-date objects</td>
+                </tr>
+                <tr>
+                    <td>git fetch</td>
+                    <td>Downloads specific objects (Download objects and refs from another repository)</td>
+                </tr>
+                <tr>
+                    <td>git branch -r</td>
+                    <td>Lists remote branches; can be combined with other branch arguments to manage remote branches</td>
+                </tr>
+            </tbody>
+            
+        </table>
+
+        <h2>More Information About Git</h2>
+        <ul>
+            <li><a href="https://git-scm.com/doc">https://git-scm.com/doc</a></li>
+            <li><a href="https://www.mercurial-scm.org/">https://www.mercurial-scm.org/</a></li>
+            <li><a href="https://subversion.apache.org/">https://subversion.apache.org/</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Version_control">https://en.wikipedia.org/wiki/Version_control</a></li>
+        </ul>
+        
+        <h2>Git Fork and Pull Request Cheat Sheet</h2>
+        <ul><li><a href="https://help.github.com/en/articles/about-pull-request-merges">https://help.github.com/en/articles/about-pull-request-merges</a></li></ul>
+
+
+
+        <h2>More Information on Code Reviews</h2>
+        <ul>
+            <li><a href="http://google.github.io/styleguide/">Google Style Guides</a></li>
+            <li><a href="https://help.github.com/en/articles/about-pull-request-reviews">About pull request reviews</a></li>
+            <li><a href="https://medium.com/osedea/the-perfect-code-review-process-845e6ba5c31">The Perfect Code Review Process</a></li>
+            <li><a href="https://smartbear.com/learn/code-review/what-is-code-review/">What is Code Review?</a></li>
+        </ul>
+
+        <h2>Additional Tools</h2>
+<ul>
+    <li><a href="https://arp242.net/diy.html ">Open source DIY ethics</a></li>
+    <li><a href="https://help.github.com/en/articles/closing-issues-using-keywords">Linking a pull request to an issue</a></li>
+    <li><a href="https://help.github.com/en/articles/setting-guidelines-for-repository-contributors">Setting guidelines for repository contributors</a></li>
+    <li><a href="https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html">What is CI/CD? Continuous integration and continuous delivery explained</a></li>
+    <li><a href="https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/">What Is CICD? What’s Important and How to Get It Right</a></li>
+    <li><a href="https://docs.travis-ci.com/user/tutorial/">Travis CI Tutorial</a></li>
+    <li><a href="https://docs.travis-ci.com/user/build-stages/">Build Stages</a></li>
+</ul>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+        
+
+        
+
+        
+
+        
+
+        
+
+
+
+
+
+
+</body>
+</html>

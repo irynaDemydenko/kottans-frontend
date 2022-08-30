@@ -1,4 +1,22 @@
-# Kottans Frontend 2022 course. Stage0. My way.
+# Kottans Frontend 2022 course. Stage0. Self-Study.
+
+- [x] Git Basics
+- [x] Linux CLI and Networking
+- [ ] VCS (hello gitty), GitHub and Collaboration
+
+- [ ] Intro to HTML & CSS
+- [ ] Responsive Web Design
+- [ ] HTML & CSS Practice
+- [ ] JavaScript Basics
+- [ ] Document Object Model - practice
+
+- [ ] Building a Tiny JS World (pre-OOP) - practice
+- [ ] Object oriented JS - practice
+- [ ] OOP exercise - practice
+- [ ] Offline Web Applications - optional
+- [ ] Memory pair game — real project!
+- [ ] Website Performance Optimization - optional
+- [ ]Friends App - real project!
 
 ## General
 <details><summary>0. Git Basics :white_check_mark:</summary>
