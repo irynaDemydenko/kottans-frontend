@@ -27,14 +27,13 @@ I did a big cheat-sheet with all commands I've learnt in this course.
 But even after these two courses I have many questions left: how I can use all these commands in real life?
 Additional materials for this module helped me to understand subject better. In particular "Communicating using Markdown" was very useful for me.
 <details><summary>Screenshots</summary>
-<p>![Cource Certificate]
-(https://github.com/irynaDemydenko/kottans-frontend/blob/d31c94bbb9c15e5c5c80784edea7baf577ce8188/Git_GitHub/Coursera%20ZD5HTUWCA5DC_page-0001.jpg)
+<p>
 
-![Screenshot 1 from Learn Git Branching course done]
-https://github.com/irynaDemydenko/kottans-frontend/blob/d31c94bbb9c15e5c5c80784edea7baf577ce8188/Git_GitHub/gitbasics_1.JPG)
+![Cource Certificate](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_collaboration/Coursera%20ZD5HTUWCA5DC_page-0001.jpg)
 
-![Screenshot 2 from Learn Git Branching course done]
-(https://github.com/irynaDemydenko/kottans-frontend/blob/d31c94bbb9c15e5c5c80784edea7baf577ce8188/Git_GitHub/gitbasics_2.JPG)
+![Screenshot 1 from Learn Git Branching course done](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_github/gitbasics_1.JPG)
+
+![Screenshot 2 from Learn Git Branching course done](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_github/gitbasics_2.JPG)
 
 </p>
 </details>
@@ -48,8 +47,10 @@ https://github.com/irynaDemydenko/kottans-frontend/blob/d31c94bbb9c15e5c5c80784e
 
 ## **2.** VCS (hello gitty), GitHub and Collaboration
 <details><summary>Screenshots</summary>
-<p>![Cource Certificate]
-(https://github.com/irynaDemydenko/kottans-frontend/blob/d31c94bbb9c15e5c5c80784edea7baf577ce8188/Git_GitHub/Coursera%20ZD5HTUWCA5DC_page-0001.jpg)
+<p>
+
+![Cource Certificate](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_collaboration/Coursera%20ZD5HTUWCA5DC_page-0001.jpg)
+
 </p>
 </details>
 
