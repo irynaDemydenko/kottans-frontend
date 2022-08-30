@@ -29,7 +29,7 @@ Additional materials for this module helped me to understand subject better. In 
 <details><summary>Screenshots</summary>
 <p>
 
-![Cource Certificate](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_collaboration/Coursera%20ZD5HTUWCA5DC_page-0001.jpg)
+![Course Certificate](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_collaboration/Coursera%20ZD5HTUWCA5DC_page-0001.jpg)
 
 ![Screenshot 1 from Learn Git Branching course done](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_github/gitbasics_1.JPG)
 
@@ -61,7 +61,15 @@ So far, I use Git for this course through Git Bash and make commits for all the 
 <details><summary>Screenshots</summary>
 <p>
 
-![Cource Certificate](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_collaboration/Coursera%20ZD5HTUWCA5DC_page-0001.jpg)
+![Course Certificate](https://github.com/irynaDemydenko/kottans-frontend/blob/8cca00eb4588522f0c57b1a43aff57630bcbe4c7/task_git_collaboration/Coursera%20ZD5HTUWCA5DC_page-0001.jpg)
+
+![Screenshot 3 from Learn Git Branching course done](https://github.com/irynaDemydenko/kottans-frontend/blob/67f1d66e5ecbb9ceb459e17aed0e88cc5768827d/task_git_collaboration/push-master.jpg)
+
+![Screenshot 4 from Learn Git Branching course done](https://github.com/irynaDemydenko/kottans-frontend/blob/67f1d66e5ecbb9ceb459e17aed0e88cc5768827d/task_git_collaboration/push-master2.jpg)
+
+
+
+
 
 </p>
 </details>
