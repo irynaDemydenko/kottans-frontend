@@ -4,7 +4,7 @@
 - [x] Linux CLI and Networking
 - [x] VCS (hello gitty), GitHub and Collaboration
 
-- [ ] Intro to HTML & CSS
+- [x] Intro to HTML & CSS
 - [ ] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
@@ -78,7 +78,20 @@ I use Git for this course through Git Bash and make commits for all the changes 
 
 # Front-End Basics
 ## **3.** Intro to HTML & CSS
-<details><summary>Screenshots</summary></details>
+It was easy to learn this module because I have already known the biggest part of html tags and css styles. But it was very important for me to systemize all my knowledge and learn some aspects deeper. For instant, I have finally figured out with video and audio tags, with vertical collapse and some attributes for forms. Also I liked explanation about weight of id, class, attributes and tags in css, about overflow, display and position properties. The most off all I liked quizzes and projects on Codeacademy courses.
+<details><summary>Screenshots</summary>
+<p>
+
+![screenshot about the end of the course 1](https://github.com/irynaDemydenko/kottans-frontend/blob/0e080a3e5ecd9704e88eb2f9c2ee7ab539b2c7f0/task_html_css_intro/week1.jpg)
+
+![screenshot about the end of the course 2](https://github.com/irynaDemydenko/kottans-frontend/blob/0e080a3e5ecd9704e88eb2f9c2ee7ab539b2c7f0/task_html_css_intro/week2.jpg)
+
+![HTML Codeacadamy sertificate](https://github.com/irynaDemydenko/kottans-frontend/blob/0e080a3e5ecd9704e88eb2f9c2ee7ab539b2c7f0/task_html_css_intro/html-codeacadamy.png)
+
+![CSS Codeacadamy sertificate](https://github.com/irynaDemydenko/kottans-frontend/blob/0e080a3e5ecd9704e88eb2f9c2ee7ab539b2c7f0/task_html_css_intro/css-codeacadamy.png)
+
+</p>
+</details>
 
 ---
 
