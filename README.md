@@ -78,7 +78,7 @@ I use Git for this course through Git Bash and make commits for all the changes 
 
 # Front-End Basics
 ## **3.** Intro to HTML & CSS
-It was easy to learn this module because I have already known the biggest part of html tags and css styles. But it was very important for me to systemize all my knowledge and learn some aspects deeper. For instant, I have finally figured out with video and audio tags, with vertical collapse and some attributes for forms. Also I liked explanation about weight of id, class, attributes and tags in css, about overflow, display and position properties. The most off all I liked quizzes and projects on Codeacademy courses.
+It was easy to learn this module because I have already known the biggest part of html tags and css styles. But it was very important for me to systemize all my knowledge and learn some aspects deeper. For instant, I have finally figured out with video and audio tags, with vertical collapse and some attributes for forms. Also I liked explanation about weight of id, class, attributes and tags in css, about overflow, display and position properties. The most off all I liked quizzes and projects on Codeacademy courses. Also I enjoyed "Can't Unsee" webapp. It is really brilliant and useful!
 <details><summary>Screenshots</summary>
 <p>
 
