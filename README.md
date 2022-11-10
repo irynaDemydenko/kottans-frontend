@@ -96,6 +96,7 @@ It was easy to learn this module because I have already known the biggest part o
 ---
 
 ## **4.** Responsive Web Design
+On this step I did my first real site layout. I used flex technology to optimize my work. It's very comfortable.
 <details><summary>Screenshots</summary></details>
 
 ---
