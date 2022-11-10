@@ -97,9 +97,11 @@ It was easy to learn this module because I have already known the biggest part o
 
 ## **4.** Responsive Web Design
 On this step I did my first real site layout. I used flex technology to optimize my work. It's very comfortable.
-<details><summary>Screenshots</summary></details>
-
----
+<details><summary>Screenshots</summary>
+<p>
+![screenshot about Froggy game (flex)] (https://github.com/irynaDemydenko/kottans-frontend/blob/b993a79a8d0295c6d0081a0cfd77fa4a70eae431/task_responsive_web_design/froggy.jpg)
+</p>
+</details>
 
 ## **5.** HTML & CSS Practice
 <details><summary>Screenshots</summary></details>
