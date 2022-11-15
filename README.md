@@ -103,6 +103,8 @@ Levels 26 and 28 in Grid Garden game were very difficult for me. Flex Froggy was
 <p>
 
 ![screenshot about Froggy game (flex)](https://github.com/irynaDemydenko/kottans-frontend/blob/b993a79a8d0295c6d0081a0cfd77fa4a70eae431/task_responsive_web_design/froggy.jpg)
+
+![screenshot about Froggy game (flex)](https://github.com/irynaDemydenko/kottans-frontend/blob/a2e295b2ebb654c88f3130f931f83c070b9d0423/task_responsive_web_design/grid-garden.png)
 </p>
 </details>
 
