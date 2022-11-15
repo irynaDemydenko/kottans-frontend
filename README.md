@@ -97,6 +97,8 @@ It was easy to learn this module because I have already known the biggest part o
 
 ## **4.** Responsive Web Design
 On this step I did my first real site layout. I used flex technology to optimize my work. It's very comfortable.
+I have really enjoyed Grid GArden and Flex Froggy games.
+Levels 26 and 28 in Grid Garden game were very difficult for me. Flex Froggy was easier to understand.
 <details><summary>Screenshots</summary>
 <p>
 
